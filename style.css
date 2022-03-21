@@ -176,7 +176,7 @@ position: relative;
 
 }
 .dc{
-    text-decoration: none;
+    text-decoration: none
 }
 
   @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
@@ -402,22 +402,3 @@ footer{
            color:#cd7687;
 }
 
-/*
-@media(max-width:717px) {
-    header #main-nav{
-        display:none
-    }
-}
-
-.site-main-wrapper{
-   position: relative; 
-
-}
-
-.hamberger{
-    position: absolute;
-    top:40px;
-    right:40px;
-    z-index: 11;
-
-}
